@@ -15,10 +15,6 @@ The task breakdown across the 5 of us (BE-1, BE-2, BE-3, FE-1, FE-2). Each secti
 ```
 ai-code-eval-framework/
 ├── README.md
-├── docs/
-│   ├── ai-code-evaluation-framework.md
-│   └── team-assignments.md
-│
 ├── backend/                          # BE-1, BE-3
 │   ├── app/
 │   │   ├── main.py
